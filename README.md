@@ -9,9 +9,10 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Rust,Vue.js**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **HTML, CSS, React, Bootstrap, and JavaScript.**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, React.js, Next.js, TypeScript, Material UI, Node.js, Express.js, MySQL, MongoDB.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
